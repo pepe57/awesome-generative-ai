@@ -285,6 +285,12 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) - A book about optimizing and restructuring LLMs for domain-specific use.
 - [PromptZone](https://promptzone.com/) - Community and publication for prompt engineering, LLM comparisons, and AI-tool workflows.
 
+### Podcasts
+
+- [Chain of Thought](https://chainofthought.show/) - A weekly podcast with AI leaders covering inference infrastructure, developer tools, and AI strategy.
+- [How I AI](https://www.youtube.com/@howiaipodcast) - Claire Vo interviews builders about how they use AI in practice.
+- [Latent Space](https://www.latent.space/podcast) - Technical deep dives into AI engineering, LLMs, and the developer tooling stack.
+
 ## More lists
 
 - [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
